@@ -9,3 +9,11 @@ you get 0 points, in case you get him caught to cops, you get 5 points and final
 person you get 10 points.
 
 All the very best!
+
+Open Android Studio and open a new project. Go to lib folder and make three files namely:
+main.dart
+Story.dart
+StoryBrain.dart
+
+Either you can copy the above given codes to your lib folder or just paste the codes in them to your above created files.
+In images folder add a background of your own wish and that's it, you're done. Test, debug and run the program. You can make changes according to your own will.
